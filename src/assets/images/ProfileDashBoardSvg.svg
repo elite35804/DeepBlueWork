@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_4732" data-name="Group 4732" transform="translate(-291.322 -13.185)">
+    <g id="User-Icon" transform="translate(292.322 14.185)">
+      <g id="Ellipse_73" data-name="Ellipse 73" fill="#14192e" stroke="#d1d8e3" stroke-linejoin="bevel" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="10.5" fill="none"/>
+      </g>
+      <text id="P" transform="translate(7 13)" fill="#d1d8e3" font-size="10" font-family="Rubik"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+</svg>
